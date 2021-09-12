@@ -11,7 +11,7 @@ image:
 
 service:
   type: ClusterIP
-  type: LoadBalancer
+  # type: LoadBalancer
   port: 80
   # nodePort: 31000
 
